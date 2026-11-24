@@ -7,7 +7,7 @@ export default function About() {
         <div className="sh rv">
           <div>
             <small>01 — About</small>
-            <h2>Code, <em>shipped</em></h2>
+            <h2>Code, <em>Shipped</em></h2>
           </div>
           <p>{SUMMARY}</p>
         </div>
